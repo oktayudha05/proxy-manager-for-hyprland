@@ -1,4 +1,4 @@
-# Proxy Manager (px)
+# Proxy Manager
 
 A simple command-line tool to manage system-wide proxy settings on Linux systems. This tool helps you quickly enable or disable proxy configurations in both `/etc/environment` and `.zshrc` files.
 
